@@ -1,1 +1,2 @@
-# Ejercicios realizado en la clase Entorno de desarrollos por clase 2025
+# Ejercicios de Python
+En este repos subire los ejercicios realizados en clase de Entornos de desarrollo 1 daw 2025.
